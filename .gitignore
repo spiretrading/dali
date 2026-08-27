@@ -60,5 +60,3 @@ typings/
 # next.js build output
 .next
 
-# Depends on package.json, we don't commit this.
-package-lock.json
